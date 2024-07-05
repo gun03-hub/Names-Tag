@@ -1,7 +1,7 @@
 let wrapper = document.getElementsByClassName("wrapper")[0];
 let template = document.getElementsByTagName("template")[0];
 
-let names = ["Vijay","Shaurya","Ajay"];
+let names = ["Gunjan","Vishal","Sneha"];
 
 
 let colors = [
